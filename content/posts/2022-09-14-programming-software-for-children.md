@@ -1,6 +1,6 @@
 +++
-authors = ["Ryan Lyu"]
 slug = "programming-software-for-children"
+authors = ["Ryan Lyu"]
 title = "Programming Software for Children's Self-Learning"
 date = "2022-09-14"
 description = "A comprehensive guide to programming software designed for children's self-learning, from ages 4 to 18."
