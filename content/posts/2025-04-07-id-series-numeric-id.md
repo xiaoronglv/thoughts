@@ -17,10 +17,7 @@ CREATE TABLE employees (
   location_id bigint NOT NULL,
   company_id bigint NOT NULL,
   first_name varchar(255),
-  last_name varchar(255),
-  age int,
-  created_at timestamp NOT NULL,
-  updated_at timestamp NOT NULL
+  last_name varchar(255)
 );
 ```
 

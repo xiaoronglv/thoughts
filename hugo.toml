@@ -10,7 +10,7 @@ enableEmoji = true
 pagerSize = 20
 
 [permalinks]
-  posts = "/:slug/"
+  posts = "posts/:slug/"
 
 [services]
 [services.disqus]
