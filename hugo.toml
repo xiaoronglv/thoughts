@@ -29,11 +29,11 @@ unsafe = true
 [params]
 author = "Ryan Lyu"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
-description = "John Doe's personal website"
+description = "Ryan Lyu's thoughts on software development"
 keywords = "blog,developer,personal"
 info = ["Ruby Engineer", "AWS", "Kubernetes", "Human Resources SaaS"]
 avatarURL = "images/avatar.jpg"
-#gravatar = "john.doe@example.com"
+#gravatar = "ryan.lyu@example.com"
 dateFormat = "January 2, 2006"
 since = 2019
 # Git Commit in Footer, uncomment the line below to enable it
@@ -77,7 +77,7 @@ url = "https://github.com/xiaoronglv/"
 # name = "Gitlab"
 # icon = "fa-brands fa-gitlab fa-2x"
 # weight = 2
-# url = "https://gitlab.com/johndoe/"
+# url = "https://gitlab.com/xiaoronglv/"
 
 [[params.social]]
 name = "Twitter"
