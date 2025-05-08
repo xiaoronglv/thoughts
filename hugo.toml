@@ -7,8 +7,7 @@ enableEmoji = true
 
 
 [pagination]
-pagerSize = 5
-
+pagerSize = 20
 
 [permalinks]
   posts = "/:slug/"
