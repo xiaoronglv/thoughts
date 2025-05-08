@@ -28,7 +28,7 @@ As the product evolves and gains initial customers, maintaining code quality bec
 3. Merge code to staging branch and deploy to staging environment for QA testing
 4. If no bugs are found, deploy to production for customer use
 
-```
+```text
 environments
 ├── development.rb
 ├── staging.rb
@@ -57,7 +57,7 @@ To reduce code conflicts and communication overhead, many companies create dedic
 
 As the engineering team grows, so does the need for Rails deployment environments. To create six deployment environments (staging, staging-1 through staging-4, demo), we need to create six configuration files in Rails' `config/environments` directory, following Rails' recommended configuration style.
 
-```
+```text
 > tree environments
 environments
 ├── demo.rb
