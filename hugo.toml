@@ -129,6 +129,6 @@ weight = 5
 url = "contact/"
 
 [[languages.en.menu.main]]
-name = "中文博客"
-weight = 10
+name = "中文"
+weight = 6
 url = "https://mednoter.com/"
