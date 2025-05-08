@@ -1,9 +1,9 @@
 +++
-title = "ID Series: Dangerous numeric ID [Part 1]"
+title = "ID Series: Dangerous Numeric ID [Part 1]"
 date = "2025-04-07"
-slug = "id-series-dangerous-numeric-ids"
+slug = "id-series-dangerous-numeric-id"
 description = "The danger of numeric IDs"
-tags = ["uuid", "primary key", "database"]
+tags = ["numeric id", "primary key", "database"]
 categories = ["id series"]
 +++
 
